@@ -3,5 +3,6 @@
     "subTitle":"make impossible possible",
     "avatarUrl":"https://avatars.githubusercontent.com/u/139683607?v=4",
     "GMEEK_VERSION":"last",
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>"
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
