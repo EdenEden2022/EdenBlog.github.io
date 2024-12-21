@@ -2,5 +2,6 @@
     "title":"Eden2022的博客",
     "subTitle":"make impossible possible",
     "avatarUrl":"https://avatars.githubusercontent.com/u/139683607?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>"
 }
